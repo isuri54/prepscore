@@ -1,0 +1,501 @@
+Skills,GPA,Experience,Certifications,Score,Age,Industry
+"Problem Solving, Teamwork, Java, JavaScript",3.9,7.3,4,85.73,40,IT
+"Python, Java, Machine Learning",2.92,3.3,2,45.93,41,Healthcare
+"Data Analysis, Machine Learning, Communication, Leadership, C++",3.94,8.3,1,80.61,40,IT
+"Communication, Data Analysis, Java, C++, Python",2.86,2.9,2,57.99,29,IT
+"Teamwork, Python, Data Analysis, Leadership",3.95,2.3,2,72.2,31,IT
+"Python, JavaScript, Communication",3.72,6.8,0,64.57,26,Marketing
+"Machine Learning, Leadership",3.9,9.7,1,76.0,28,Engineering
+"Python, Teamwork, Java, C++",2.99,0.3,0,30.29,23,Finance
+"C++, Python",3.33,3.1,1,47.69,23,Marketing
+"C++, Data Analysis, Java, Problem Solving",2.09,3.3,4,56.21,37,Finance
+"Problem Solving, Data Analysis, Communication, Teamwork, JavaScript",3.17,9.7,3,89.42,32,Engineering
+C++,2.03,4.2,0,30.97,31,Education
+"Machine Learning, JavaScript, Java",2.4,7.1,2,56.79,20,IT
+"Teamwork, Java",2.23,8.6,3,65.97,21,Engineering
+Java,2.13,3.1,4,38.73,22,Healthcare
+"Machine Learning, C++, Data Analysis",2.94,1.2,2,44.19,20,Marketing
+"Problem Solving, Python, Leadership, Teamwork, Communication",3.12,7.7,2,74.23,28,Engineering
+"Data Analysis, Problem Solving, Java, Machine Learning",2.22,0.3,0,29.76,39,Engineering
+"Machine Learning, Communication, Java, C++, Leadership",3.02,9.1,4,74.55,34,Engineering
+"JavaScript, C++, Communication",3.39,8.8,1,73.02,32,Healthcare
+Problem Solving,2.21,4.6,3,57.71,31,Marketing
+"C++, Teamwork",2.24,3.6,0,37.15,20,Finance
+JavaScript,3.3,0.0,4,44.65,28,Marketing
+"C++, JavaScript, Java",2.83,2.2,2,40.37,29,Education
+"Python, Leadership, Java, Machine Learning",2.49,1.7,0,31.29,39,IT
+"Machine Learning, Problem Solving, Leadership, Python",2.49,7.0,2,58.53,36,Finance
+"Problem Solving, JavaScript, Machine Learning, Leadership, Java",2.57,0.4,0,28.6,21,Engineering
+"Java, JavaScript, Python, Teamwork, Problem Solving",2.69,6.3,1,59.82,40,Engineering
+"JavaScript, Problem Solving, Python, Data Analysis",2.9,5.5,3,58.62,42,Education
+"Machine Learning, Python, Teamwork, Leadership, Problem Solving",3.26,6.3,2,73.37,35,Education
+C++,2.3,5.1,4,62.83,22,IT
+"Python, JavaScript, C++",3.42,8.1,3,74.87,26,Healthcare
+"JavaScript, Machine Learning, C++, Problem Solving",3.88,4.0,1,57.86,27,Finance
+Communication,2.42,5.4,1,44.97,22,Finance
+"Machine Learning, JavaScript, Data Analysis, Leadership",2.35,9.8,3,63.28,36,Healthcare
+"Problem Solving, Java, Leadership, JavaScript",3.12,8.8,0,61.57,28,Education
+"Python, Teamwork, C++",3.4,8.5,3,81.1,43,Engineering
+"Leadership, Data Analysis, Problem Solving, Teamwork",2.17,1.6,3,47.37,22,Finance
+Leadership,3.33,0.1,1,42.85,21,Finance
+Communication,2.35,0.2,4,51.73,35,Marketing
+"JavaScript, Data Analysis, Communication, Python",2.73,7.4,2,64.59,36,Finance
+"C++, Communication, Problem Solving",2.74,2.7,4,52.07,38,Engineering
+"Teamwork, Java, Machine Learning",2.87,3.5,0,37.17,34,Education
+"Data Analysis, Leadership, Problem Solving, Java, Communication",3.0,5.7,0,56.93,36,Education
+"C++, Java, Python, Teamwork",3.88,9.5,4,87.68,25,Healthcare
+"Data Analysis, Leadership, Machine Learning, Communication, Problem Solving",3.14,9.8,3,86.5,40,Engineering
+Teamwork,2.63,1.7,0,37.27,29,Healthcare
+"Leadership, C++",3.23,9.9,1,67.93,29,Marketing
+"C++, Problem Solving",2.65,8.5,0,59.25,30,Finance
+"Data Analysis, Machine Learning",3.62,8.1,0,69.39,43,Education
+"Machine Learning, Teamwork, Communication, Problem Solving, JavaScript",2.16,0.1,3,46.12,32,Finance
+"Communication, Leadership, JavaScript",2.68,3.8,1,46.56,42,Marketing
+"Teamwork, Python, JavaScript",2.93,5.4,4,64.43,41,Marketing
+"Python, Teamwork, JavaScript, Machine Learning",2.08,3.0,2,43.2,24,Engineering
+Communication,3.66,2.7,3,67.75,24,Finance
+"C++, Machine Learning, Teamwork, JavaScript",2.82,7.0,3,65.44,35,IT
+"Problem Solving, Leadership, JavaScript, Python, Communication",3.94,7.1,2,72.16,36,Engineering
+"Communication, JavaScript",2.16,0.3,4,33.55,42,Marketing
+Leadership,3.38,0.6,1,31.86,20,Healthcare
+Leadership,3.32,2.8,4,55.88,26,IT
+"Leadership, Python, Machine Learning, JavaScript, C++",3.22,4.2,3,53.4,35,Education
+Leadership,2.62,9.8,4,70.28,31,Healthcare
+"C++, Communication",3.53,8.1,3,87.17,20,Education
+"Communication, C++",3.23,6.4,1,58.01,39,Engineering
+"JavaScript, Communication",3.25,5.0,0,47.59,43,Healthcare
+"C++, JavaScript",2.05,5.9,2,48.51,39,IT
+"Python, Problem Solving, Data Analysis, Machine Learning",2.78,6.4,0,54.23,38,Engineering
+C++,3.92,9.1,3,84.18,32,Education
+"Python, Communication, Java, Teamwork",2.2,0.2,2,38.17,37,Finance
+"Communication, Leadership, Python, Problem Solving, Data Analysis",3.69,0.2,1,52.54,38,Engineering
+Data Analysis,2.99,6.9,1,56.84,32,Engineering
+"JavaScript, Teamwork, C++, Communication",2.35,7.5,2,63.61,36,IT
+"Java, JavaScript, Data Analysis",2.83,3.7,4,63.16,31,Education
+Communication,2.48,3.8,0,39.0,39,Education
+Communication,2.64,9.0,0,57.04,23,IT
+"Data Analysis, Java, Problem Solving, Communication",3.15,6.3,4,73.33,24,Engineering
+"C++, Problem Solving, Leadership",3.2,5.5,4,78.57,23,Healthcare
+"Python, Data Analysis, Communication, Machine Learning",3.38,8.4,0,66.02,25,Marketing
+"Problem Solving, Leadership, C++, Java, JavaScript",2.45,4.0,2,55.27,21,Healthcare
+Java,3.18,3.5,3,51.91,38,IT
+"JavaScript, Teamwork, Machine Learning, Data Analysis, Leadership",2.76,7.1,1,57.8,38,Marketing
+"JavaScript, Python, Data Analysis, C++, Java",2.81,5.7,3,52.19,27,Engineering
+"Communication, Data Analysis, JavaScript, Teamwork, Java",3.65,7.4,2,74.0,32,Finance
+"Teamwork, Java, Communication, Python",2.57,8.7,4,70.7,25,Healthcare
+"Problem Solving, Machine Learning",2.02,9.7,4,70.65,34,Healthcare
+"Problem Solving, Machine Learning, C++",3.84,2.5,2,63.82,39,Marketing
+C++,3.05,6.3,0,44.91,40,IT
+Python,3.83,9.6,3,86.73,43,Engineering
+"JavaScript, Leadership, Data Analysis, Machine Learning",2.67,1.7,3,48.96,27,IT
+"Machine Learning, Teamwork, Problem Solving, Leadership",2.72,2.6,2,43.95,41,IT
+Teamwork,2.56,4.1,4,62.61,35,Engineering
+"Data Analysis, Problem Solving",2.17,8.8,2,68.48,32,Education
+"JavaScript, Problem Solving, Communication, C++, Data Analysis",2.05,3.8,0,33.33,37,Marketing
+"Data Analysis, Leadership, Java",3.68,8.4,1,72.77,28,Engineering
+"Data Analysis, Problem Solving, Python",2.27,0.1,3,48.19,36,IT
+"JavaScript, Teamwork, Machine Learning",3.11,7.7,4,76.33,29,Marketing
+"Teamwork, Machine Learning",2.76,2.4,0,35.56,33,Marketing
+"Machine Learning, Communication, Python, Problem Solving",2.46,6.7,1,54.02,27,Healthcare
+"Problem Solving, Teamwork",3.0,4.8,2,63.25,37,IT
+"Problem Solving, C++, Machine Learning, Data Analysis, Teamwork",2.18,7.9,0,61.27,35,Healthcare
+"JavaScript, Teamwork, Communication, Data Analysis, Problem Solving",3.24,7.0,2,81.69,26,Engineering
+"Machine Learning, C++, Data Analysis",2.18,7.3,0,34.91,25,Marketing
+Machine Learning,3.57,4.0,1,56.54,38,Marketing
+"JavaScript, Leadership",3.85,4.9,3,68.43,39,Healthcare
+"Problem Solving, Machine Learning, Teamwork, Communication, Java",3.96,4.9,4,76.2,30,IT
+Python,2.92,5.8,2,59.17,41,Education
+"Machine Learning, Teamwork, Python, JavaScript",2.36,3.5,2,49.44,22,Education
+"Leadership, Communication, Java, Problem Solving, Python",2.38,0.4,4,51.08,37,IT
+"Problem Solving, Python, JavaScript, C++",2.7,0.3,0,25.73,24,Engineering
+"Java, JavaScript",2.26,3.3,2,39.54,28,Marketing
+"C++, Data Analysis",3.6,6.3,2,62.34,35,Marketing
+Python,2.17,6.0,3,50.6,34,Education
+"Data Analysis, Communication",3.52,5.3,1,62.1,32,Engineering
+"Leadership, JavaScript, Java",3.06,1.1,1,33.98,25,Engineering
+"Teamwork, Java, JavaScript",2.79,1.0,4,57.85,29,Finance
+"JavaScript, Data Analysis",3.07,2.3,4,54.72,39,Marketing
+C++,3.36,7.9,4,73.69,37,Healthcare
+"Leadership, Java",3.12,5.9,3,56.59,38,Engineering
+"Leadership, JavaScript",2.57,3.6,1,40.44,21,Education
+"Java, Data Analysis, Machine Learning, JavaScript, Communication",3.87,0.1,4,51.81,25,Healthcare
+"JavaScript, Problem Solving, Java, Machine Learning",3.7,0.9,0,45.57,42,Finance
+"Java, JavaScript, C++",3.73,8.2,0,66.44,43,Healthcare
+"JavaScript, Python, Data Analysis",3.64,7.2,2,72.21,27,Education
+"Java, Communication, C++, Leadership, Machine Learning",2.37,3.2,2,45.87,39,Education
+Communication,3.47,5.3,0,58.79,33,IT
+"Leadership, Data Analysis, JavaScript",3.86,3.2,2,47.89,20,IT
+"Python, Communication",2.91,5.5,1,57.73,31,Healthcare
+"Leadership, Java, C++, Machine Learning",2.51,6.8,0,40.44,28,Marketing
+"Leadership, JavaScript, Teamwork",2.95,6.1,2,63.06,36,IT
+"JavaScript, Java",2.25,7.3,0,47.62,21,Marketing
+"Java, Teamwork, Communication, Machine Learning",2.76,9.3,3,80.16,27,Finance
+"C++, Python, Leadership, Data Analysis",2.33,1.6,4,47.58,38,Marketing
+"C++, Problem Solving, Communication",3.27,9.1,0,78.55,32,Finance
+"Leadership, Java, C++",3.25,5.4,0,52.82,44,IT
+Teamwork,3.8,3.8,4,71.61,27,Engineering
+"Teamwork, Communication, Problem Solving",3.26,3.3,3,61.85,34,IT
+"Java, JavaScript, Machine Learning, Problem Solving, C++",2.99,7.4,2,69.95,23,IT
+C++,2.07,5.7,1,45.4,24,IT
+"Machine Learning, Problem Solving, Python",3.51,1.0,4,65.53,34,Finance
+"Machine Learning, Java, JavaScript, Problem Solving, Communication",2.97,4.1,4,65.78,21,Finance
+"Problem Solving, Java, C++",3.28,6.9,3,76.41,30,Marketing
+"C++, Communication",2.69,2.3,1,44.59,33,Engineering
+"JavaScript, Data Analysis, Python",2.31,5.9,1,49.14,44,Education
+"Problem Solving, Leadership, Python",3.86,5.7,3,68.02,24,Healthcare
+"JavaScript, Problem Solving, Leadership, C++, Teamwork",3.41,1.5,3,68.57,28,Education
+Teamwork,3.85,4.5,4,70.44,40,Education
+"Data Analysis, Machine Learning",3.68,1.2,0,40.68,20,Engineering
+"Python, Java, Data Analysis, Communication, Teamwork",2.76,7.4,1,69.27,39,Healthcare
+JavaScript,2.01,3.3,3,34.22,44,Finance
+"Problem Solving, C++, Communication",2.9,2.2,3,43.68,38,IT
+C++,3.0,4.2,0,39.01,36,Engineering
+"Teamwork, Python",2.03,6.6,0,49.63,39,Marketing
+Data Analysis,2.3,4.1,3,60.17,27,Education
+"Problem Solving, Data Analysis, C++, Machine Learning, Java",2.79,4.3,2,54.1,36,IT
+"Data Analysis, Problem Solving, Teamwork, Java, Machine Learning",2.76,8.4,2,76.0,37,Education
+"Machine Learning, JavaScript",3.05,4.4,1,42.7,25,IT
+"Problem Solving, JavaScript, Python",2.31,1.8,4,48.75,42,Healthcare
+"C++, Java",3.79,5.3,0,56.44,42,Engineering
+"Python, Teamwork, C++, Problem Solving",3.68,8.7,0,69.38,44,Education
+"Problem Solving, Teamwork, Java",3.01,6.0,0,54.46,34,IT
+"Java, JavaScript, C++, Communication, Data Analysis",2.36,6.5,1,56.17,22,Finance
+"C++, JavaScript, Communication",3.93,9.4,4,83.8,33,Healthcare
+"Leadership, Problem Solving",2.03,0.9,4,50.84,38,Finance
+Python,3.63,3.4,1,55.29,21,Finance
+"Problem Solving, JavaScript, Python",3.18,2.7,4,67.13,24,Engineering
+"Problem Solving, C++",3.72,2.2,1,41.95,41,Healthcare
+"Java, Teamwork, Data Analysis, C++",2.28,8.7,2,55.23,33,Finance
+"Java, C++",2.04,2.7,1,31.89,32,Marketing
+Python,2.52,1.4,2,37.49,33,Engineering
+"Problem Solving, Java, JavaScript, Python, Leadership",3.38,6.8,1,64.94,40,IT
+"Problem Solving, Teamwork",3.15,2.7,0,54.75,24,Education
+"Problem Solving, Python, Data Analysis, Communication, Java",2.02,1.4,0,36.76,25,Finance
+"Java, Teamwork, Problem Solving",3.19,6.0,0,50.7,40,IT
+"C++, Machine Learning",2.84,3.5,2,40.5,20,Marketing
+"Java, Machine Learning, C++",2.18,7.7,4,59.77,40,Healthcare
+"Communication, Leadership, Java, Problem Solving",3.44,3.0,2,67.44,41,Healthcare
+"Python, Java",2.79,9.5,4,75.44,43,Education
+"Teamwork, Problem Solving, Data Analysis",3.69,9.6,2,76.1,21,Engineering
+Machine Learning,3.54,1.1,0,38.53,27,Marketing
+"Leadership, JavaScript, Communication",3.2,4.6,2,67.65,22,Engineering
+"C++, Communication",3.6,6.9,1,62.06,31,Education
+"Communication, Machine Learning, Python",3.92,7.9,0,66.66,42,Education
+Teamwork,2.37,5.4,2,59.32,27,Education
+"JavaScript, Problem Solving, Teamwork, Machine Learning, Python",3.38,8.5,0,72.75,37,Engineering
+Problem Solving,3.29,6.9,0,57.05,32,Finance
+Java,2.36,5.7,1,45.28,26,IT
+"Java, JavaScript, C++, Machine Learning, Leadership",3.46,1.9,1,47.58,42,Education
+"Leadership, JavaScript, Python, C++",3.69,3.2,1,54.46,26,Healthcare
+Data Analysis,3.3,3.6,3,56.91,32,Engineering
+"Java, Machine Learning",3.45,0.7,0,34.21,23,IT
+"Python, C++, Leadership, Machine Learning, Java",3.32,7.4,0,60.45,35,Marketing
+"Leadership, Java",2.05,8.7,2,53.62,42,Education
+"JavaScript, Leadership, Data Analysis, Java, Python",3.06,9.4,2,79.79,26,Education
+"C++, Leadership, Teamwork, Java",3.97,7.7,0,64.55,26,Healthcare
+"JavaScript, Machine Learning, Problem Solving, Java",3.48,2.4,2,48.28,32,Marketing
+"Communication, Machine Learning, Problem Solving, Python",3.43,5.9,0,57.41,40,Education
+Communication,2.22,3.9,3,53.72,31,IT
+"C++, Communication, Teamwork",3.81,9.9,3,82.14,23,Healthcare
+"Problem Solving, C++, Java",2.8,8.4,4,66.35,38,Finance
+"Data Analysis, Leadership",2.77,0.4,1,33.27,22,Education
+"Machine Learning, Java, Communication, Data Analysis, Teamwork",2.12,9.7,0,58.43,28,Healthcare
+"JavaScript, Python",2.98,10.0,2,61.93,22,IT
+"Communication, JavaScript, Teamwork, Machine Learning, Leadership",2.45,5.4,0,46.5,23,Engineering
+JavaScript,2.78,2.7,4,52.72,28,Marketing
+"Machine Learning, Communication, Data Analysis",3.91,8.6,0,73.19,34,Education
+"Machine Learning, Problem Solving, Leadership",2.56,2.5,2,56.15,24,IT
+"JavaScript, Machine Learning",3.07,9.6,4,75.72,24,Healthcare
+"Leadership, Python, Teamwork",3.65,3.5,1,61.15,27,Engineering
+"Data Analysis, Machine Learning, C++",3.73,7.3,2,71.86,35,Finance
+"Machine Learning, Leadership, C++",2.32,3.3,4,51.21,44,Marketing
+"C++, Communication, JavaScript, Teamwork, Leadership",3.36,6.2,3,79.4,26,Engineering
+"Problem Solving, Communication",2.26,3.4,1,46.33,23,Education
+"Java, Machine Learning",3.66,5.1,1,56.86,32,Marketing
+Java,2.23,3.8,4,49.93,22,Education
+"Problem Solving, Teamwork, Leadership",3.52,5.4,1,66.28,34,Finance
+"Machine Learning, Communication",3.89,1.7,3,63.04,41,Engineering
+Communication,3.16,3.5,1,48.31,43,Finance
+"C++, Communication, Problem Solving, Data Analysis, Teamwork",2.77,0.7,0,46.69,25,Healthcare
+"Teamwork, C++, JavaScript",2.51,0.0,1,37.49,33,Engineering
+"Communication, Leadership, Machine Learning",2.9,1.6,4,54.56,30,Education
+"Problem Solving, C++, Java, Communication",3.68,7.7,3,84.05,41,Engineering
+"Data Analysis, Java, Python, Communication, Machine Learning",3.28,4.0,0,51.02,24,Finance
+"JavaScript, Communication, Machine Learning",2.62,3.2,1,45.17,22,Finance
+"Leadership, Java, Data Analysis, Problem Solving",3.13,4.7,2,57.25,27,Engineering
+"Java, Machine Learning, Communication, Leadership",2.37,8.7,4,73.65,27,Healthcare
+"Java, Data Analysis, JavaScript, Communication",2.04,8.0,3,63.64,40,Finance
+"Java, Communication, C++, Problem Solving",3.94,1.9,0,63.29,33,Healthcare
+"Problem Solving, C++, Machine Learning, Python",2.86,2.0,0,47.11,41,Engineering
+"JavaScript, Problem Solving, Java, Machine Learning, Teamwork",2.54,8.0,2,66.81,32,Engineering
+"Data Analysis, Leadership",2.96,6.0,2,49.71,32,Finance
+C++,3.72,7.8,2,65.5,41,Finance
+"Data Analysis, Problem Solving, Java, Teamwork",3.97,1.4,3,68.08,39,Marketing
+Machine Learning,3.12,0.1,3,39.12,20,IT
+"Communication, Java, Problem Solving, Leadership, Machine Learning",2.17,8.2,1,60.49,41,Engineering
+"JavaScript, Data Analysis",3.95,2.0,1,51.26,37,Finance
+"Leadership, Communication, JavaScript, Java, C++",3.41,0.3,0,40.66,26,Education
+Teamwork,3.42,8.7,1,74.55,39,IT
+"C++, Data Analysis, Teamwork",3.79,5.5,1,60.72,41,IT
+"Data Analysis, Python",2.96,0.4,3,51.23,29,Healthcare
+"Teamwork, Problem Solving, Java, Machine Learning",2.49,1.6,4,53.4,38,Healthcare
+"C++, Data Analysis",2.66,4.7,4,55.77,27,Engineering
+"Java, Machine Learning, Teamwork",2.32,0.2,2,42.01,41,Healthcare
+"Teamwork, Data Analysis, C++, JavaScript, Machine Learning",3.99,9.7,2,75.15,29,Healthcare
+Problem Solving,3.68,1.7,4,60.53,43,Marketing
+"Data Analysis, JavaScript, Communication, Java",3.26,7.4,3,76.56,43,IT
+Data Analysis,2.88,7.3,3,77.43,21,Healthcare
+"JavaScript, C++",3.59,6.6,2,59.26,38,Education
+"Data Analysis, Teamwork, Communication",3.25,6.3,0,54.58,22,Finance
+"C++, Problem Solving",3.43,9.1,1,71.75,31,Education
+"Java, Machine Learning, Python, C++, Data Analysis",3.71,4.9,3,52.18,34,Healthcare
+Machine Learning,3.33,1.0,0,29.83,44,Education
+"Leadership, JavaScript, Python, Data Analysis",2.26,9.7,2,65.5,29,Healthcare
+"C++, Communication, Teamwork",2.88,3.3,4,60.27,29,Marketing
+"C++, Teamwork, Communication, Problem Solving, Java",2.5,6.2,0,60.72,44,Engineering
+"Data Analysis, Java, Machine Learning, Python",2.76,6.1,4,67.97,31,Marketing
+"Communication, Leadership, Machine Learning, Teamwork",2.89,8.6,3,76.25,39,Engineering
+"Leadership, Problem Solving",3.97,1.2,4,65.05,39,Healthcare
+"JavaScript, Machine Learning, Teamwork",2.9,9.3,4,75.51,20,Engineering
+C++,3.17,6.9,3,74.26,40,Finance
+"Java, Teamwork",2.65,9.7,2,67.53,37,Education
+"C++, Leadership, JavaScript, Problem Solving",3.06,1.3,4,50.81,39,IT
+"Machine Learning, JavaScript",2.38,7.3,4,64.92,25,Marketing
+"Leadership, Communication, JavaScript, Machine Learning, Problem Solving",3.93,2.6,0,56.84,42,IT
+"Python, C++",2.49,8.3,0,50.78,31,Finance
+"Java, C++, Machine Learning",3.86,6.9,0,62.49,20,IT
+"Teamwork, Java, Problem Solving, Communication, C++",3.33,5.8,3,71.98,21,Engineering
+"JavaScript, Teamwork",3.21,3.2,0,45.39,28,Marketing
+"Leadership, Python, Java",3.76,4.0,3,59.06,25,Engineering
+"Python, C++, JavaScript",3.62,7.6,0,65.45,42,Healthcare
+Python,2.66,6.3,1,48.19,26,Engineering
+"Communication, Teamwork, Machine Learning, C++, Problem Solving",2.76,5.5,0,48.34,36,Healthcare
+"JavaScript, C++",3.17,1.7,1,49.64,21,Healthcare
+Machine Learning,2.76,8.6,1,49.25,25,IT
+"Problem Solving, Java, Leadership, JavaScript",3.22,7.6,1,64.85,31,Education
+"Communication, Data Analysis, Leadership",3.04,8.2,2,68.65,42,IT
+"Problem Solving, Python, Data Analysis",2.12,9.3,2,64.0,21,Education
+"Machine Learning, Java, Data Analysis, Leadership, Python",3.23,5.2,2,68.18,34,Education
+"Communication, Machine Learning",3.22,7.2,0,63.69,32,Healthcare
+"Data Analysis, Communication, Problem Solving, JavaScript",3.65,5.2,3,71.4,29,Engineering
+Leadership,3.13,2.6,3,53.67,39,Marketing
+"Teamwork, Problem Solving, Machine Learning, Communication",2.17,8.2,3,68.29,43,Healthcare
+"Python, Java, C++, Machine Learning, Problem Solving",3.2,8.2,3,73.94,28,Education
+"Machine Learning, JavaScript",2.42,6.1,1,40.28,44,Engineering
+"C++, Communication, JavaScript, Java, Python",2.6,7.3,3,61.44,26,Education
+"C++, Leadership",3.62,7.7,1,57.59,20,Healthcare
+Problem Solving,3.47,8.6,4,80.25,36,Marketing
+"Leadership, Machine Learning, C++, Python, Data Analysis",3.28,6.1,2,62.77,29,Healthcare
+Leadership,2.99,9.9,2,60.84,26,Healthcare
+"JavaScript, Problem Solving, Java, Teamwork, Machine Learning",3.35,4.4,4,77.91,26,Finance
+"C++, Problem Solving, Python, Communication",3.45,5.8,4,75.3,33,IT
+"Python, Leadership, Machine Learning, JavaScript",2.17,8.9,2,50.9,28,Healthcare
+Leadership,3.23,4.4,3,53.94,21,Healthcare
+"Problem Solving, C++, JavaScript, Python",3.6,2.3,4,65.55,27,Finance
+"Teamwork, Java, Data Analysis, Problem Solving",2.65,3.3,1,54.57,42,IT
+"Machine Learning, Data Analysis, C++, Leadership",3.32,5.6,1,50.47,42,Education
+"Teamwork, Communication, Data Analysis, C++",2.18,9.6,4,76.32,34,Finance
+Leadership,2.34,4.1,0,32.02,42,Healthcare
+"Communication, Python, Data Analysis, Teamwork",3.96,4.7,4,85.88,42,IT
+"JavaScript, Machine Learning, Problem Solving, Communication",3.95,0.2,3,58.33,27,Education
+"C++, Leadership, Data Analysis, Communication, Python",2.19,2.6,0,38.65,40,Marketing
+"C++, Python, Data Analysis, Teamwork",3.56,7.1,3,70.49,20,Finance
+Teamwork,2.18,9.4,0,49.13,20,Finance
+"Problem Solving, Machine Learning, JavaScript",3.65,2.8,1,55.73,23,Marketing
+"Data Analysis, Leadership, Java, Teamwork",3.7,2.1,0,55.31,29,Finance
+"Python, Data Analysis",3.26,6.7,1,59.54,33,Marketing
+"C++, Problem Solving, Data Analysis, JavaScript",3.64,3.2,2,62.0,21,IT
+"Machine Learning, C++, JavaScript",3.39,3.5,3,61.83,37,Finance
+Communication,2.96,3.1,0,46.27,33,Healthcare
+"Data Analysis, Teamwork, Machine Learning, Leadership, Communication",2.64,9.5,0,61.85,32,Healthcare
+"C++, Data Analysis",3.01,2.3,4,52.07,31,Healthcare
+"Machine Learning, Problem Solving, C++, Python",2.62,5.1,1,42.22,25,IT
+"Java, Communication, Python",3.13,1.9,0,48.28,21,Healthcare
+"C++, Problem Solving, Leadership",3.51,6.2,0,55.88,42,Education
+JavaScript,3.57,2.7,3,53.75,20,Education
+"Java, Data Analysis, Machine Learning, Teamwork",3.27,2.3,4,57.64,26,IT
+"Java, Python, Data Analysis, Machine Learning",3.05,4.3,4,56.86,39,Finance
+"Problem Solving, Teamwork, Machine Learning, C++, Communication",2.71,5.3,4,72.84,41,Marketing
+"Problem Solving, Machine Learning, JavaScript, Java, Data Analysis",3.52,1.4,4,55.17,20,Healthcare
+"Communication, Teamwork, Python, Machine Learning, Problem Solving",2.02,2.4,4,53.43,40,IT
+"C++, Leadership, JavaScript, Communication",3.29,5.0,4,68.75,23,Healthcare
+"Communication, Leadership",2.65,7.4,2,66.76,28,Marketing
+"Data Analysis, Teamwork",3.57,8.9,0,69.01,36,Education
+Java,3.89,8.1,4,78.76,20,Finance
+"Problem Solving, Machine Learning, Communication",2.99,3.9,0,56.21,34,Finance
+Data Analysis,2.13,5.2,2,45.34,24,IT
+"Java, Data Analysis, Leadership, Communication, Teamwork",2.1,0.4,2,48.81,20,Finance
+"Teamwork, Data Analysis, Problem Solving, Java, Communication",3.6,1.1,0,42.13,24,Marketing
+"Data Analysis, Machine Learning, Python, Teamwork",2.7,7.7,2,64.03,38,Finance
+"Communication, Java, C++",2.82,5.5,1,53.85,25,Healthcare
+Communication,2.59,7.7,0,49.76,28,IT
+"Java, Teamwork",3.33,0.1,3,53.81,23,IT
+"Machine Learning, Python",2.96,9.0,1,66.72,40,IT
+"Problem Solving, Machine Learning, Data Analysis, Teamwork",2.59,9.8,4,81.5,40,Engineering
+"Problem Solving, Leadership, Python, Java",2.31,0.4,0,33.45,27,Finance
+"Data Analysis, Python",2.45,3.7,2,53.88,33,Finance
+"Leadership, Teamwork, Data Analysis, Machine Learning",2.48,1.2,2,35.88,33,Marketing
+C++,3.29,2.9,0,40.76,31,Engineering
+"Python, Leadership, Data Analysis, Problem Solving, Machine Learning",2.44,9.8,3,72.21,30,Marketing
+"Teamwork, C++, Leadership",2.54,5.4,4,64.21,37,Engineering
+"Leadership, Communication, Machine Learning, Problem Solving",3.64,2.1,2,57.29,42,Finance
+"Data Analysis, Java, Communication, C++",3.47,5.4,4,62.4,20,IT
+"Leadership, Teamwork, C++",2.3,0.9,3,43.09,34,Finance
+JavaScript,3.52,1.6,1,46.98,35,Finance
+"Python, Data Analysis, Machine Learning",3.98,1.0,1,50.65,21,Engineering
+"Leadership, Teamwork, JavaScript",2.62,7.4,2,67.38,21,IT
+"Data Analysis, C++, Problem Solving, Python",3.05,8.5,1,61.95,41,IT
+"Data Analysis, Communication, Machine Learning, Python",3.49,2.0,1,42.65,40,Finance
+"JavaScript, Machine Learning, C++",3.68,4.7,2,53.37,24,Finance
+"Communication, Python",2.74,4.5,3,59.02,29,IT
+"C++, Data Analysis, Java, Communication, Python",3.33,0.0,4,58.96,29,Finance
+"Teamwork, Problem Solving, Communication, Python",2.36,3.9,0,50.45,42,Finance
+"Communication, Java, Python",2.13,5.8,3,61.08,23,Engineering
+"Problem Solving, Leadership",3.2,6.0,3,62.91,38,Engineering
+"JavaScript, Leadership, Teamwork, Machine Learning, C++",3.49,9.8,4,85.28,23,Marketing
+"Communication, JavaScript, Java",2.88,1.5,0,35.11,42,Healthcare
+Teamwork,3.2,7.4,2,60.64,44,Engineering
+"Communication, JavaScript, Leadership, Machine Learning",2.6,1.7,3,46.35,39,IT
+"Python, Machine Learning, Teamwork, Communication",2.77,5.7,4,72.11,44,Marketing
+"Leadership, C++, JavaScript, Data Analysis",2.72,3.3,4,53.8,30,Healthcare
+"Leadership, Data Analysis, C++, JavaScript, Python",3.57,0.6,2,36.66,33,Education
+"Leadership, C++",3.75,8.4,4,77.74,39,IT
+"Communication, Machine Learning, JavaScript, Java, Problem Solving",3.41,6.3,1,73.95,22,Education
+Teamwork,3.56,0.1,0,38.58,41,Marketing
+C++,3.5,6.6,3,65.07,40,Healthcare
+"Data Analysis, Java, Problem Solving, Teamwork",2.09,0.4,2,38.97,42,Finance
+"Java, Data Analysis",3.69,2.7,0,46.84,32,Education
+"Problem Solving, JavaScript, Python, C++",2.07,0.6,1,32.01,30,Engineering
+Problem Solving,3.54,0.9,1,41.44,43,Education
+"Communication, Python, Teamwork",3.93,5.6,4,84.54,29,Education
+Leadership,2.99,9.8,4,78.08,22,Engineering
+"JavaScript, Teamwork",2.38,3.4,2,43.96,44,Education
+Teamwork,3.7,5.6,0,66.95,43,IT
+"Data Analysis, Teamwork, Java, JavaScript, Problem Solving",2.45,4.0,2,55.7,28,Healthcare
+"Python, JavaScript",2.16,4.6,0,42.55,29,Finance
+"C++, Communication, Machine Learning, Data Analysis, Leadership",2.28,6.6,0,55.76,21,Marketing
+"Data Analysis, JavaScript, Machine Learning, Communication",2.12,5.1,3,52.2,29,IT
+"Java, Machine Learning, Teamwork",2.1,7.9,4,73.61,39,Education
+"Teamwork, Leadership, C++, Java",3.04,2.0,4,58.77,34,Engineering
+"Data Analysis, Problem Solving, Teamwork, Communication",3.74,2.4,0,64.02,27,Finance
+Data Analysis,2.78,8.0,3,63.41,42,Healthcare
+Data Analysis,2.79,0.9,4,43.96,38,Education
+"Leadership, JavaScript, Python, Java",3.59,5.8,4,66.74,27,Education
+C++,2.79,9.2,1,69.6,29,Engineering
+"Problem Solving, Python",2.63,8.6,2,55.95,37,Marketing
+"Leadership, Teamwork, JavaScript",3.97,1.4,0,44.12,42,Healthcare
+"Data Analysis, Teamwork, Leadership, Problem Solving",3.6,9.7,2,85.22,28,Healthcare
+"Leadership, Java, Python, Teamwork",3.48,3.2,0,44.09,32,Education
+"Data Analysis, Machine Learning",2.85,1.6,2,43.44,24,IT
+Teamwork,2.19,0.3,3,37.18,21,Healthcare
+"Leadership, Teamwork, Problem Solving",2.37,8.6,3,65.21,25,Engineering
+"Data Analysis, Leadership",2.22,7.6,0,46.38,30,Marketing
+Data Analysis,2.72,4.9,2,53.56,31,IT
+"Python, Machine Learning, Communication, Data Analysis",3.05,2.4,3,55.92,43,Healthcare
+"C++, JavaScript, Data Analysis",2.28,3.5,1,35.0,30,Education
+Data Analysis,2.87,5.8,0,48.25,24,Education
+"Machine Learning, Leadership, Data Analysis",3.27,1.3,1,42.51,21,Engineering
+"Machine Learning, JavaScript, Problem Solving",3.37,0.7,0,43.73,39,IT
+"Data Analysis, Machine Learning, Teamwork",3.39,5.1,4,67.83,22,Education
+Python,2.61,6.5,3,61.02,31,Marketing
+"Python, Leadership, Teamwork, Communication",3.33,2.6,0,48.13,25,Marketing
+"Python, Teamwork, JavaScript",2.0,1.7,1,27.53,43,Marketing
+"JavaScript, Machine Learning, Communication, Data Analysis, Teamwork",3.09,3.8,2,57.4,39,IT
+JavaScript,2.08,7.4,1,50.55,25,Education
+"Machine Learning, Java, Leadership",3.95,8.3,2,70.22,28,Engineering
+"JavaScript, Problem Solving, Teamwork, Java",2.04,9.6,0,70.2,42,Healthcare
+"Java, C++, Leadership, Python",2.23,7.0,4,61.96,23,Marketing
+Leadership,2.48,0.1,3,40.83,44,Healthcare
+Python,2.1,9.0,1,47.57,28,Engineering
+"Teamwork, Java, JavaScript, Leadership, Communication",3.19,8.9,4,81.81,36,Healthcare
+"Teamwork, Python, Leadership",3.99,8.6,4,78.24,24,Engineering
+"C++, JavaScript, Leadership, Communication",2.44,4.9,4,61.43,28,Finance
+Java,2.13,9.6,4,69.31,42,IT
+"C++, Java, Communication, Teamwork",3.82,4.6,0,61.31,38,Marketing
+"Python, Teamwork, Leadership, Machine Learning, JavaScript",3.26,5.9,4,76.06,38,IT
+"JavaScript, Communication, Data Analysis, Leadership",3.35,1.3,3,49.92,41,Education
+"Python, Java, Leadership",3.49,5.1,0,45.55,37,Education
+Java,2.08,6.0,2,45.87,27,Engineering
+Communication,2.66,4.8,2,46.04,35,Healthcare
+"Teamwork, C++, Java, Data Analysis, Communication",2.95,5.9,4,74.69,25,Engineering
+Data Analysis,2.68,8.0,0,52.24,29,IT
+"Python, C++, Machine Learning",2.09,2.8,4,40.87,36,IT
+"Leadership, Machine Learning, Data Analysis",3.76,5.7,4,72.04,30,Finance
+"Teamwork, Python, Problem Solving",2.9,9.3,4,90.3,20,Healthcare
+"Problem Solving, Communication, Java, Machine Learning, C++",3.43,6.1,0,59.05,32,Education
+"Java, Python",3.91,8.2,0,64.42,33,Marketing
+"Problem Solving, C++",2.51,6.7,0,47.13,23,Marketing
+"Communication, Problem Solving",2.18,6.0,3,64.36,36,IT
+"Data Analysis, Communication, Leadership, Machine Learning, Python",3.36,3.6,2,56.56,32,Marketing
+"Teamwork, Java",3.0,1.4,0,37.69,44,Engineering
+"JavaScript, Teamwork, Data Analysis",3.48,5.3,2,62.11,35,Marketing
+"Python, Communication",2.02,4.2,2,59.19,30,Engineering
+"Data Analysis, Leadership",3.82,8.1,0,60.07,42,Finance
+Teamwork,2.13,3.9,2,42.31,37,Healthcare
+Data Analysis,2.61,7.9,3,60.96,31,Marketing
+"Machine Learning, JavaScript",2.77,4.5,3,51.4,34,Finance
+"Communication, Data Analysis, Teamwork",3.16,3.7,0,53.86,41,Education
+"Data Analysis, Leadership, Python, Problem Solving",2.79,5.3,1,55.04,43,Marketing
+"Data Analysis, Problem Solving, C++, Java, Python",3.78,3.5,3,60.15,38,Marketing
+"Problem Solving, C++, Leadership, Data Analysis, Teamwork",3.03,3.8,2,66.07,30,Finance
+"C++, Data Analysis, Communication",2.62,6.8,4,65.11,27,Education
+"JavaScript, Problem Solving",3.68,5.8,0,53.63,23,IT
+"Teamwork, Data Analysis",2.08,0.3,2,35.19,29,Engineering
+"Java, Problem Solving, C++",2.05,7.6,4,63.83,29,Marketing
+"Teamwork, Java, Data Analysis, JavaScript",3.99,5.5,4,78.54,32,Marketing
+"C++, Machine Learning, Leadership",3.92,3.9,4,80.06,35,Education
+"Python, C++, Machine Learning, Problem Solving, Communication",3.52,8.3,2,69.07,22,Finance
+"Leadership, Problem Solving",3.65,7.1,1,76.97,36,Education
+"Leadership, C++, JavaScript, Teamwork, Python",3.93,5.6,2,69.53,20,Engineering
+"Problem Solving, C++, Python, Machine Learning",3.17,10.0,4,80.09,34,Education
+"C++, Machine Learning, Java, Leadership, Python",3.99,8.8,0,69.12,43,Healthcare
+"Python, Java",2.92,7.3,3,76.32,24,Education
+"Leadership, Data Analysis, Machine Learning",2.26,5.9,1,36.79,30,IT
+"Problem Solving, C++, Communication, Leadership, JavaScript",2.92,0.4,2,49.75,26,IT
+"Java, C++, Machine Learning, Communication",2.93,0.3,0,33.48,38,Marketing
+"Communication, JavaScript, Data Analysis",3.03,0.9,3,41.13,25,Finance
+"Machine Learning, JavaScript, Teamwork",2.41,7.6,2,66.21,30,IT
+C++,2.72,7.3,4,54.1,33,Education
+"Problem Solving, Data Analysis, Python, Communication",3.61,4.8,0,51.94,27,Marketing
+"Teamwork, Java, JavaScript, Machine Learning",2.01,6.4,0,47.27,27,Healthcare
+"Python, Teamwork, Machine Learning, Java, Problem Solving",3.85,0.2,4,50.4,41,Healthcare
+"Python, Leadership, Data Analysis",3.74,5.3,4,66.66,35,Healthcare
+"Machine Learning, Communication, Python",2.42,9.6,2,71.07,38,Engineering
+"Python, C++",3.35,8.3,2,72.45,20,Marketing
+"Communication, Machine Learning, Problem Solving, Teamwork, Data Analysis",2.01,9.4,3,68.1,28,Healthcare
+Leadership,3.69,6.1,0,54.38,21,IT
+"Leadership, Java, Python",2.7,1.1,3,38.58,32,Healthcare
+"Python, Machine Learning, Problem Solving, JavaScript, Communication",3.4,0.1,2,49.98,25,Engineering
+"Python, Communication",3.59,7.1,3,73.1,21,Healthcare
+"Problem Solving, Python",3.42,6.7,3,75.66,21,Marketing
+"Python, Problem Solving, Data Analysis",2.04,5.8,0,39.65,36,IT
+C++,2.44,0.3,2,40.71,40,Marketing
+Java,3.44,8.7,1,62.11,29,Finance
+"Teamwork, C++, Communication, Java",3.25,0.7,1,40.78,33,Healthcare
+"Communication, C++, Teamwork, Leadership, Problem Solving",3.61,5.5,3,78.51,32,Marketing
+"Java, Problem Solving, Machine Learning",3.55,2.7,1,55.38,37,Finance
+Leadership,3.5,3.2,0,48.66,37,Education
+Machine Learning,2.13,8.4,0,50.63,25,Marketing
+"JavaScript, C++, Data Analysis, Java, Python",3.86,8.3,2,67.16,38,Finance
+Data Analysis,3.69,3.1,3,57.4,37,Healthcare
+Teamwork,2.75,9.4,2,73.42,24,Marketing
+Data Analysis,3.37,4.9,0,51.01,44,Healthcare
+"JavaScript, Leadership, C++, Problem Solving, Python",2.37,2.8,2,41.02,36,Engineering
+"Data Analysis, Python, Java, Leadership",3.41,3.0,4,62.18,39,Engineering
+"Python, Data Analysis",2.21,5.0,3,55.12,28,IT
+"Java, Problem Solving, Machine Learning",2.92,2.1,2,49.6,31,Education
+"C++, Problem Solving, Machine Learning, Communication",3.7,2.1,0,46.67,25,Engineering
+"Leadership, C++, Java",3.46,6.5,3,69.46,32,Healthcare
+"Communication, Teamwork, Leadership, Python",3.48,3.2,3,65.58,31,Education
+"Java, Machine Learning, Python, Leadership, Problem Solving",3.36,4.7,0,57.71,23,IT
+"Java, JavaScript",3.09,1.0,1,40.49,33,Engineering
+"JavaScript, Data Analysis, Communication, Java, Problem Solving",2.76,3.4,0,43.5,23,Marketing
+"C++, Problem Solving, Python, Communication",3.19,0.1,2,56.18,44,Finance
+"Python, Problem Solving, Machine Learning, Leadership",2.08,4.0,0,29.32,39,Finance
+Java,3.04,9.8,2,66.16,41,Education
+"Communication, Data Analysis, Problem Solving, Leadership, Machine Learning",2.15,3.8,0,41.6,21,IT
+"Teamwork, C++, Python, Java, Communication",2.68,7.4,3,64.56,44,Finance
+"Python, Leadership, Java, JavaScript",2.0,3.0,3,44.35,32,Engineering
+"Python, Machine Learning, Problem Solving, C++, Data Analysis",2.8,3.0,2,53.38,28,IT
+"Python, Communication, Leadership, JavaScript, Problem Solving",2.49,4.8,3,65.55,42,Finance
+Communication,2.48,5.3,3,66.56,37,IT
