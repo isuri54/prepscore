@@ -1,5 +1,5 @@
 <div class="container">
-  <h2>Interview Score Prediction</h2>
+  <h2>IT Interview Performance Score Prediction</h2>
 
     <form (ngSubmit)="onPredict()" #f="ngForm">
 
@@ -24,9 +24,6 @@
 
     <label>Certifications</label>
     <input type="number" [(ngModel)]="formData.Certifications" name="Certifications" required />
-
-    <label>Age</label>
-    <input type="number" [(ngModel)]="formData.Age" name="Age" required />
 
     <button type="submit" [disabled]="f.invalid">Predict Score</button>
   </form>

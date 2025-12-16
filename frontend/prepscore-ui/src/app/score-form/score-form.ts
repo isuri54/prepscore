@@ -45,7 +45,6 @@ export class ScoreFormComponent {
     GPA: null,
     Experience: null,
     Certifications: null,
-    Age: null,
   };
 
   onSkillChange(skill: string, event: Event) {
