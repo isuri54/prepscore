@@ -13,14 +13,49 @@ import { HttpClient, HttpClientModule } from '@angular/common/http';
 export class ScoreFormComponent {
 
   predictedScore: number | null = null;
+  skillsList: string[] = [
+  'Python',
+  'Java',
+  'C',
+  'C++',
+  'JavaScript',
+  'SQL',
+  '.net',
+  'Flutter',
+  'Data Analysis',
+  'Data Structures',
+  'Algorithms',
+  'Object Oriented Programming',
+  'Problem Solving',
+  'Teamwork',
+  'HTML',
+  'CSS',
+  'React',
+  'Angular',
+  'Node.js',
+  'Git',
+  'REST APIs',
+  'Database Management',
+  'Machine Learning',
+  'Cloud Basics'
+  ];
 
   formData = {
-    Skills: [],
+    Skills: [] as String[],
     GPA: null,
     Experience: null,
     Certifications: null,
     Age: null,
-    Industry: ''
+  };
+
+  onSkillChange(skill: string, event: Event) {
+    const checked = (event.target as HTMLInputElement).checked;
+
+    if (checked) {
+      this.formData.Skills.push(skill);
+    } else {
+      this.formData.Skills = this.formData.Skills.filter(s => s !== skill);
+    }
   };
 
   constructor(private http: HttpClient) {}
