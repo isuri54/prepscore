@@ -3,8 +3,17 @@ from pydantic import BaseModel
 import numpy as np
 import joblib
 import pickle
+from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI()
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["http://localhost:4200"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 # Load saved model and preprocessors
 model = joblib.load("interview_model.pkl")
