@@ -1,0 +1,501 @@
+Skills,GPA,Experience,Certifications,Score
+"Java, Teamwork, Problem Solving, JavaScript",3.9,7.3,4,85.73
+"Python, Java, Machine Learning",2.92,3.3,2,45.93
+"Data Analysis, Machine Learning, C++, Communication",3.94,8.3,1,80.61
+"Python, Communication, Data Analysis, Java, C++",2.86,2.9,2,57.99
+"Python, Data Analysis, Teamwork",3.95,2.3,2,72.2
+"Python, Communication, JavaScript",3.72,6.8,0,64.57
+Machine Learning,3.9,9.7,1,76
+"Teamwork, Java, Python, C++",2.99,0.3,0,30.29
+"C++, Python",3.33,3.1,1,47.69
+"Java, Problem Solving, C++, Data Analysis",2.09,3.3,4,56.21
+"Teamwork, Communication, Problem Solving, Data Analysis, JavaScript",3.17,9.7,3,89.42
+C++,2.03,4.2,0,30.97
+"JavaScript, Machine Learning, Java",2.4,7.1,2,56.79
+"Java, Teamwork",2.23,8.6,3,65.97
+Java,2.13,3.1,4,38.73
+"Data Analysis, C++, Machine Learning",2.94,1.2,2,44.19
+"Communication, Python, Teamwork, Problem Solving",3.12,7.7,2,74.23
+"Problem Solving, Java, Data Analysis, Machine Learning",2.22,0.3,0,29.76
+"Machine Learning, Java, C++, Communication",3.02,9.1,4,74.55
+"Communication, C++, JavaScript",3.39,8.8,1,73.02
+Problem Solving,2.21,4.6,3,57.71
+"Teamwork, C++",2.24,3.6,0,37.15
+JavaScript,3.3,0,4,44.65
+"C++, JavaScript, Java",2.83,2.2,2,40.37
+"Machine Learning, Python, Java",2.49,1.7,0,31.29
+"Machine Learning, Problem Solving, Python",2.49,7,2,58.53
+"JavaScript, Problem Solving, Java, Machine Learning",2.57,0.4,0,28.6
+"Problem Solving, Java, Python, JavaScript, Teamwork",2.69,6.3,1,59.82
+"Problem Solving, Python, Data Analysis, JavaScript",2.9,5.5,3,58.62
+"Python, Machine Learning, Teamwork, Problem Solving",3.26,6.3,2,73.37
+C++,2.3,5.1,4,62.83
+"JavaScript, Python, C++",3.42,8.1,3,74.87
+"Machine Learning, JavaScript, C++, Problem Solving",3.88,4,1,57.86
+Communication,2.42,5.4,1,44.97
+"JavaScript, Data Analysis, Machine Learning",2.35,9.8,3,63.28
+"Problem Solving, JavaScript, Java",3.12,8.8,0,61.57
+"Teamwork, C++, Python",3.4,8.5,3,81.1
+"Data Analysis, Teamwork, Problem Solving",2.17,1.6,3,47.37
+"React, Flutter",3.33,0.1,1,42.85
+"Communication, Git",2.35,0.2,4,51.73
+"Communication, Python, JavaScript, Data Analysis",2.73,7.4,2,64.59
+"C++, Communication, Problem Solving",2.74,2.7,4,52.07
+"Machine Learning, Teamwork, Java",2.87,3.5,0,37.17
+"Communication, Data Analysis, Problem Solving, Java",3,5.7,0,56.93
+"Python, C++, Teamwork, Java",3.88,9.5,4,87.68
+"Problem Solving, Communication, Machine Learning, Data Analysis",3.14,9.8,3,86.5
+Teamwork,2.63,1.7,0,37.27
+C++,3.23,9.9,1,67.93
+"C++, Problem Solving",2.65,8.5,0,59.25
+"Data Analysis, Machine Learning",3.62,8.1,0,69.39
+"JavaScript, Teamwork, Communication, Problem Solving, Machine Learning",2.16,0.1,3,46.12
+"Communication, JavaScript",2.68,3.8,1,46.56
+"Teamwork, JavaScript, Python",2.93,5.4,4,64.43
+"Python, JavaScript, Teamwork, Machine Learning",2.08,3,2,43.2
+Communication,3.66,2.7,3,67.75
+"Machine Learning, JavaScript, C++, Teamwork",2.82,7,3,65.44
+"JavaScript, Python, Communication, Problem Solving",3.94,7.1,2,72.16
+"JavaScript, Communication",2.16,0.3,4,33.55
+".net, C, SQL",3.38,0.6,1,31.86
+"Data Structures, Algorithms, Object Oriented Programming",3.32,2.8,4,55.88
+"Python, JavaScript, C++, Machine Learning",3.22,4.2,3,53.4
+"HTML, Angular, Node.js",2.62,9.8,4,70.28
+"Communication, C++",3.53,8.1,3,87.17
+"Communication, C++",3.23,6.4,1,58.01
+"JavaScript, Communication",3.25,5,0,47.59
+"C++, JavaScript",2.05,5.9,2,48.51
+"Machine Learning, Data Analysis, Python, Problem Solving, Algorithms",2.78,6.4,0,54.23
+Flutter,3.92,9.1,3,84.18
+"Java, Teamwork, Communication, Python",2.2,0.2,2,38.17
+"Communication, Data Analysis, Python, Problem Solving",3.69,0.2,1,52.54
+Data Analysis,2.99,6.9,1,56.84
+"Teamwork, C++, Communication, JavaScript",2.35,7.5,2,63.61
+"Data Analysis, Java, JavaScript",2.83,3.7,4,63.16
+Communication,2.48,3.8,0,39
+Communication,2.64,9,0,57.04
+"Problem Solving, Data Analysis, Java, Communication",3.15,6.3,4,73.33
+"Problem Solving, C++",3.2,5.5,4,78.57
+"Machine Learning, Python, Communication, Data Analysis",3.38,8.4,0,66.02
+"Problem Solving, Java, JavaScript, C++",2.45,4,2,55.27
+".net, Java",3.18,3.5,3,51.91
+"JavaScript, Teamwork, Data Analysis, Machine Learning",2.76,7.1,1,57.8
+"Data Analysis, Java, JavaScript, Python, C++",2.81,5.7,3,52.19
+"JavaScript, Java, Data Analysis, Teamwork, Communication",3.65,7.4,2,74
+"Java, Teamwork, Python, Communication",2.57,8.7,4,70.7
+"Problem Solving, Machine Learning",2.02,9.7,4,70.65
+"Problem Solving, C++, Machine Learning",3.84,2.5,2,63.82
+".net, C++",3.05,6.3,0,44.91
+"Node.js, Python",3.83,9.6,3,86.73
+"Machine Learning, Data Analysis, JavaScript",2.67,1.7,3,48.96
+"Teamwork, Machine Learning, Problem Solving",2.72,2.6,2,43.95
+Teamwork,2.56,4.1,4,62.61
+"Problem Solving, Data Analysis",2.17,8.8,2,68.48
+"Communication, JavaScript, C++, Problem Solving, Data Analysis",2.05,3.8,0,33.33
+"Java, CSS, Data Analysis",3.68,8.4,1,72.77
+"Python, Problem Solving, Data Analysis",2.27,0.1,3,48.19
+"Teamwork, Machine Learning, JavaScript",3.11,7.7,4,76.33
+"Machine Learning, Teamwork",2.76,2.4,0,35.56
+"Problem Solving, Communication, Angular, Machine Learning, Python",2.46,6.7,1,54.02
+"Problem Solving, Teamwork",3,4.8,2,63.25
+"Data Analysis, Problem Solving, Machine Learning, C++, Teamwork",2.18,7.9,0,61.27
+"Problem Solving, Data Analysis, Teamwork, JavaScript, Communication",3.24,7,2,81.69
+"C++, Machine Learning, Data Analysis",2.18,7.3,0,34.91
+Machine Learning,3.57,4,1,56.54
+JavaScript,3.85,4.9,3,68.43
+"Communication, Problem Solving, Java, Teamwork, Machine Learning",3.96,4.9,4,76.2
+Python,2.92,5.8,2,59.17
+"JavaScript, Machine Learning, Python, Teamwork",2.36,3.5,2,49.44
+"Java, Communication, Problem Solving, Python",2.38,0.4,4,51.08
+"C++, JavaScript, Python, Problem Solving",2.7,0.3,0,25.73
+"JavaScript, Java",2.26,3.3,2,39.54
+"C++, Data Analysis",3.6,6.3,2,62.34
+Python,2.17,6,3,50.6
+"Communication, Data Analysis",3.52,5.3,1,62.1
+"JavaScript, Java",3.06,1.1,1,33.98
+"Teamwork, JavaScript, Java",2.79,1,4,57.85
+"JavaScript, Data Analysis",3.07,2.3,4,54.72
+C++,3.36,7.9,4,73.69
+Java,3.12,5.9,3,56.59
+JavaScript,2.57,3.6,1,40.44
+"JavaScript, Java, Data Analysis, Communication, Machine Learning",3.87,0.1,4,51.81
+"JavaScript, Java, Problem Solving, Machine Learning",3.7,0.9,0,45.57
+"Java, JavaScript, C++",3.73,8.2,0,66.44
+"Python, Data Analysis, JavaScript",3.64,7.2,2,72.21
+"Communication, C++, Machine Learning, Java",2.37,3.2,2,45.87
+Communication,3.47,5.3,0,58.79
+"Data Analysis, JavaScript",3.86,3.2,2,47.89
+"Python, Communication",2.91,5.5,1,57.73
+"C++, Java, Machine Learning",2.51,6.8,0,40.44
+"JavaScript, Teamwork",2.95,6.1,2,63.06
+"Java, JavaScript",2.25,7.3,0,47.62
+"Teamwork, Machine Learning, Communication, Java",2.76,9.3,3,80.16
+"Python, C++, Data Analysis",2.33,1.6,4,47.58
+"C++, Problem Solving, Communication",3.27,9.1,0,78.55
+"Java, C++",3.25,5.4,0,52.82
+Teamwork,3.8,3.8,4,71.61
+"Communication, Teamwork, Problem Solving",3.26,3.3,3,61.85
+"Problem Solving, Machine Learning, Java, JavaScript, C++",2.99,7.4,2,69.95
+.net,2.07,5.7,1,45.4
+"Python, Problem Solving, Machine Learning",3.51,1,4,65.53
+"Communication, Java, JavaScript, Machine Learning, Problem Solving",2.97,4.1,4,65.78
+"C++, Java, Problem Solving",3.28,6.9,3,76.41
+"Communication, C++",2.69,2.3,1,44.59
+"Python, Data Analysis, JavaScript",2.31,5.9,1,49.14
+"Problem Solving, Python",3.86,5.7,3,68.02
+"C++, JavaScript, Teamwork, Problem Solving",3.41,1.5,3,68.57
+Teamwork,3.85,4.5,4,70.44
+"Machine Learning, Data Analysis",3.68,1.2,0,40.68
+"Teamwork, Communication, Data Analysis, Java, Python",2.76,7.4,1,69.27
+JavaScript,2.01,3.3,3,34.22
+"Communication, Problem Solving, C++",2.9,2.2,3,43.68
+C++,3,4.2,0,39.01
+"Data Structures, Python, Teamwork",2.03,6.6,0,49.63
+Data Analysis,2.3,4.1,3,60.17
+"Data Analysis, Java, Problem Solving, C++, Machine Learning",2.79,4.3,2,54.1
+"Java, Data Analysis, Machine Learning, Teamwork, Problem Solving",2.76,8.4,2,76
+"JavaScript, Machine Learning",3.05,4.4,1,42.7
+"Python, JavaScript, Problem Solving",2.31,1.8,4,48.75
+"Java, C++",3.79,5.3,0,56.44
+"Python, Problem Solving, C++, Teamwork",3.68,8.7,0,69.38
+"Java, Problem Solving, Teamwork",3.01,6,0,54.46
+"Communication, Java, JavaScript, Data Analysis, C++",2.36,6.5,1,56.17
+"JavaScript, Communication, C++",3.93,9.4,4,83.8
+Problem Solving,2.03,0.9,4,50.84
+Python,3.63,3.4,1,55.29
+"JavaScript, Python, React, Problem Solving",3.18,2.7,4,67.13
+"Problem Solving, C++",3.72,2.2,1,41.95
+"Data Analysis, Java, Teamwork, C++",2.28,8.7,2,55.23
+"C++, Java",2.04,2.7,1,31.89
+Python,2.52,1.4,2,37.49
+"Java, Flutter, Python, JavaScript, Problem Solving",3.38,6.8,1,64.94
+"Problem Solving, Teamwork",3.15,2.7,0,54.75
+"Python, Data Analysis, Communication, Java, Problem Solving",2.02,1.4,0,36.76
+"Problem Solving, Java, Teamwork",3.19,6,0,50.7
+"Machine Learning, C++",2.84,3.5,2,40.5
+"Machine Learning, C++, Java",2.18,7.7,4,59.77
+"Problem Solving, Java, Communication",3.44,3,2,67.44
+"Java, Python",2.79,9.5,4,75.44
+"Problem Solving, Data Analysis, Teamwork",3.69,9.6,2,76.1
+Machine Learning,3.54,1.1,0,38.53
+"Communication, JavaScript",3.2,4.6,2,67.65
+"Communication, C++",3.6,6.9,1,62.06
+"Python, Communication, Machine Learning",3.92,7.9,0,66.66
+Teamwork,2.37,5.4,2,59.32
+"JavaScript, Python, Problem Solving, Machine Learning, Teamwork",3.38,8.5,0,72.75
+Problem Solving,3.29,6.9,0,57.05
+Java,2.36,5.7,1,45.28
+"JavaScript, C++, Java, Machine Learning",3.46,1.9,1,47.58
+"Python, JavaScript, C++",3.69,3.2,1,54.46
+Data Analysis,3.3,3.6,3,56.91
+"Java, Machine Learning",3.45,0.7,0,34.21
+"Machine Learning, Python, C++, Java",3.32,7.4,0,60.45
+Java,2.05,8.7,2,53.62
+"Java, Python, Data Analysis, JavaScript",3.06,9.4,2,79.79
+"Teamwork, C++, Java",3.97,7.7,0,64.55
+"Java, Machine Learning, Problem Solving, JavaScript",3.48,2.4,2,48.28
+"Python, Machine Learning, Problem Solving, Communication",3.43,5.9,0,57.41
+Communication,2.22,3.9,3,53.72
+"Communication, C++, Teamwork",3.81,9.9,3,82.14
+"Java, Problem Solving, C++",2.8,8.4,4,66.35
+Data Analysis,2.77,0.4,1,33.27
+"Communication, Java, Machine Learning, Teamwork, Data Analysis",2.12,9.7,0,58.43
+"JavaScript, Python",2.98,10,2,61.93
+"Teamwork, Communication, Machine Learning, JavaScript",2.45,5.4,0,46.5
+JavaScript,2.78,2.7,4,52.72
+"Communication, Machine Learning, Data Analysis",3.91,8.6,0,73.19
+"Problem Solving, Machine Learning",2.56,2.5,2,56.15
+"JavaScript, Machine Learning",3.07,9.6,4,75.72
+"Teamwork, Python",3.65,3.5,1,61.15
+"Machine Learning, .net, Data Analysis",3.73,7.3,2,71.86
+"C++, Machine Learning",2.32,3.3,4,51.21
+"Communication, Teamwork, C++, JavaScript",3.36,6.2,3,79.4
+"Problem Solving, Communication",2.26,3.4,1,46.33
+"Java, Machine Learning",3.66,5.1,1,56.86
+"Flutter, Java",2.23,3.8,4,49.93
+"Teamwork, Problem Solving",3.52,5.4,1,66.28
+"Communication, Machine Learning",3.89,1.7,3,63.04
+Communication,3.16,3.5,1,48.31
+"C++, Teamwork, Communication, Data Analysis, Problem Solving",2.77,0.7,0,46.69
+"JavaScript, Teamwork, C++",2.51,0,1,37.49
+"SQL, Communication, Machine Learning",2.9,1.6,4,54.56
+"Problem Solving, C++, Communication, Java",3.68,7.7,3,84.05
+"Communication, Java, Machine Learning, Data Analysis, Python",3.28,4,0,51.02
+"Communication, Machine Learning, JavaScript",2.62,3.2,1,45.17
+"Problem Solving, Java, Data Analysis",3.13,4.7,2,57.25
+"Java, Machine Learning, Communication",2.37,8.7,4,73.65
+"JavaScript, Communication, Data Analysis, Java",2.04,8,3,63.64
+"Communication, Problem Solving, Java, C++",3.94,1.9,0,63.29
+"C++, Problem Solving, Machine Learning, Python",2.86,2,0,47.11
+"Problem Solving, JavaScript, Java, Machine Learning, Teamwork",2.54,8,2,66.81
+Data Analysis,2.96,6,2,49.71
+C++,3.72,7.8,2,65.5
+"Data Analysis, Java, Teamwork, Problem Solving",3.97,1.4,3,68.08
+Machine Learning,3.12,0.1,3,39.12
+"Problem Solving, Communication, Machine Learning, Java",2.17,8.2,1,60.49
+"Data Analysis, JavaScript",3.95,2,1,51.26
+"Java, JavaScript, C++, Communication",3.41,0.3,0,40.66
+Teamwork,3.42,8.7,1,74.55
+"Teamwork, Data Analysis, C++",3.79,5.5,1,60.72
+"Python, Data Analysis",2.96,0.4,3,51.23
+"Problem Solving, Machine Learning, Teamwork, Java, Database Management",2.49,1.6,4,53.4
+"Data Analysis, C++",2.66,4.7,4,55.77
+"Machine Learning, Teamwork, Java",2.32,0.2,2,42.01
+"Data Analysis, C++, Teamwork, JavaScript, Machine Learning",3.99,9.7,2,75.15
+Problem Solving,3.68,1.7,4,60.53
+"Data Analysis, JavaScript, Communication, Java",3.26,7.4,3,76.56
+Data Analysis,2.88,7.3,3,77.43
+"C++, JavaScript",3.59,6.6,2,59.26
+"Teamwork, Data Analysis, Communication",3.25,6.3,0,54.58
+"C++, Problem Solving",3.43,9.1,1,71.75
+"Java, C++, Machine Learning, Python, Data Analysis",3.71,4.9,3,52.18
+Machine Learning,3.33,1,0,29.83
+"JavaScript, Python, Data Analysis",2.26,9.7,2,65.5
+"C++, Communication, Teamwork",2.88,3.3,4,60.27
+"Problem Solving, Java, Communication, C++, Teamwork",2.5,6.2,0,60.72
+"Python, Data Analysis, Java, Machine Learning",2.76,6.1,4,67.97
+"Communication, Machine Learning, Teamwork",2.89,8.6,3,76.25
+Problem Solving,3.97,1.2,4,65.05
+"Machine Learning, JavaScript, Teamwork",2.9,9.3,4,75.51
+"Flutter, C++",3.17,6.9,3,74.26
+"Teamwork, Java",2.65,9.7,2,67.53
+"C++, Problem Solving, JavaScript",3.06,1.3,4,50.81
+"Machine Learning, JavaScript",2.38,7.3,4,64.92
+"JavaScript, Communication, Problem Solving, Machine Learning",3.93,2.6,0,56.84
+"C++, Python",2.49,8.3,0,50.78
+"Java, Machine Learning, C++",3.86,6.9,0,62.49
+"Teamwork, Problem Solving, C++, Communication, Java",3.33,5.8,3,71.98
+"JavaScript, Teamwork",3.21,3.2,0,45.39
+"Java, Python",3.76,4,3,59.06
+"Python, JavaScript, C++",3.62,7.6,0,65.45
+Python,2.66,6.3,1,48.19
+"Teamwork, Problem Solving, C++, Communication, Machine Learning",2.76,5.5,0,48.34
+"C++, JavaScript",3.17,1.7,1,49.64
+Machine Learning,2.76,8.6,1,49.25
+"Problem Solving, Java, JavaScript",3.22,7.6,1,64.85
+"Data Analysis, Communication",3.04,8.2,2,68.65
+"Data Analysis, Problem Solving, Python",2.12,9.3,2,64
+"Machine Learning, Java, Data Analysis, Python",3.23,5.2,2,68.18
+"Machine Learning, Communication",3.22,7.2,0,63.69
+"Problem Solving, JavaScript, Data Analysis, Communication",3.65,5.2,3,71.4
+"REST APIs, Database Management, Cloud Basics",3.13,2.6,3,53.67
+"Problem Solving, Teamwork, Machine Learning, Communication",2.17,8.2,3,68.29
+"Problem Solving, Java, C++, Python, Machine Learning",3.2,8.2,3,73.94
+"JavaScript, Machine Learning",2.42,6.1,1,40.28
+"Communication, JavaScript, C++, Python, Java",2.6,7.3,3,61.44
+C++,3.62,7.7,1,57.59
+Problem Solving,3.47,8.6,4,80.25
+"C++, Machine Learning, Data Analysis, Python",3.28,6.1,2,62.77
+"REST APIs, HTML, CSS",2.99,9.9,2,60.84
+"Java, Machine Learning, Problem Solving, JavaScript, Teamwork",3.35,4.4,4,77.91
+"Problem Solving, Python, Communication, C++",3.45,5.8,4,75.3
+"Cloud Basics, JavaScript, Python, Machine Learning",2.17,8.9,2,50.9
+"Database Management, SQL",3.23,4.4,3,53.94
+"JavaScript, Python, C++, Problem Solving",3.6,2.3,4,65.55
+"Data Analysis, Problem Solving, Teamwork, Java",2.65,3.3,1,54.57
+"C++, Machine Learning, Data Analysis",3.32,5.6,1,50.47
+"Communication, Data Analysis, C++, Teamwork",2.18,9.6,4,76.32
+"React, Angular, Java Script, Node.js",3.84,4.1,0,82.02
+"Data Analysis, Teamwork, Communication, Python",3.96,4.7,4,85.88
+"Communication, Problem Solving, JavaScript, Machine Learning",3.95,0.2,3,58.33
+"Communication, C++, Data Analysis, Python",2.19,2.6,0,38.65
+"Python, Data Analysis, C++, Teamwork",3.56,7.1,3,70.49
+Teamwork,2.18,9.4,0,49.13
+"JavaScript, Problem Solving, Machine Learning",3.65,2.8,1,55.73
+"Data Analysis, Java, Teamwork",3.7,2.1,0,55.31
+"Data Analysis, Python",3.26,6.7,1,59.54
+"C++, JavaScript, Data Analysis, Problem Solving",3.64,3.2,2,62
+"JavaScript, C++, Machine Learning",3.39,3.5,3,61.83
+Communication,2.96,3.1,0,46.27
+"Data Analysis, Machine Learning, Teamwork, Communication",2.64,9.5,0,61.85
+"Data Analysis, C++",3.01,2.3,4,52.07
+"Machine Learning, C++, Python, Problem Solving",2.62,5.1,1,42.22
+"HTML, Python, Java, Communication",3.13,1.9,0,48.28
+"C++, Problem Solving",3.51,6.2,0,55.88
+"Flutter, .net, JavaScript",3.57,2.7,3,53.75
+"Teamwork, Machine Learning, Java, Data Analysis",3.27,2.3,4,57.64
+"Machine Learning, Java, Data Analysis, Python",3.05,4.3,4,56.86
+"Teamwork, Machine Learning, Problem Solving, Communication, C++",2.71,5.3,4,72.84
+"Data Analysis, Java, JavaScript, Problem Solving, Machine Learning",3.52,1.4,4,55.17
+"Teamwork, Problem Solving, Machine Learning, Communication, Python",2.02,2.4,4,53.43
+"C++, JavaScript, Communication",3.29,5,4,68.75
+Communication,2.65,7.4,2,66.76
+"Data Analysis, Teamwork",3.57,8.9,0,69.01
+Java,3.89,8.1,4,78.76
+"Communication, Machine Learning, Problem Solving",2.99,3.9,0,56.21
+Data Analysis,2.13,5.2,2,45.34
+"Teamwork, Data Analysis, Java, Communication",2.1,0.4,2,48.81
+"Communication, Teamwork, Data Analysis, Problem Solving, Java",3.6,1.1,0,42.13
+"Teamwork, Data Analysis, Machine Learning, Python",2.7,7.7,2,64.03
+"Communication, Java, C++",2.82,5.5,1,53.85
+Communication,2.59,7.7,0,49.76
+"Teamwork, Java",3.33,0.1,3,53.81
+"Machine Learning, Python",2.96,9,1,66.72
+"Machine Learning, Data Analysis, Problem Solving, Teamwork",2.59,9.8,4,81.5
+"Problem Solving, Python, Java",2.31,0.4,0,33.45
+"Data Analysis, Python",2.45,3.7,2,53.88
+"Data Analysis, Teamwork, Machine Learning",2.48,1.2,2,35.88
+"Flutter, C++",3.29,2.9,0,40.76
+"Problem Solving, Data Analysis, Machine Learning, Python",2.44,9.8,3,72.21
+"C++, Teamwork",2.54,5.4,4,64.21
+"Problem Solving, Communication, Machine Learning",3.64,2.1,2,57.29
+"Communication, Data Analysis, C++, Java",3.47,5.4,4,62.4
+"C++, Teamwork",2.3,0.9,3,43.09
+JavaScript,3.52,1.6,1,46.98
+"Machine Learning, Python, Data Analysis",3.98,1,1,50.65
+"Teamwork, JavaScript",2.62,7.4,2,67.38
+"Data Analysis, Python, C++, Problem Solving",3.05,8.5,1,61.95
+"Communication, Data Analysis, Python, Machine Learning",3.49,2,1,42.65
+"Machine Learning, JavaScript, C++",3.68,4.7,2,53.37
+"Communication, Python",2.74,4.5,3,59.02
+"Java, Python, Data Analysis, Communication, C++",3.33,0,4,58.96
+"Python, Communication, Teamwork, Problem Solving",2.36,3.9,0,50.45
+"Java, Python, Communication",2.13,5.8,3,61.08
+Problem Solving,3.2,6,3,62.91
+"Machine Learning, Teamwork, JavaScript, C++",3.49,9.8,4,85.28
+"JavaScript, Communication, Java",2.88,1.5,0,35.11
+Teamwork,3.2,7.4,2,60.64
+"JavaScript, Machine Learning, Communication",2.6,1.7,3,46.35
+"Python, Communication, Machine Learning, Teamwork",2.77,5.7,4,72.11
+"C++, Data Analysis, JavaScript",2.72,3.3,4,53.8
+"Data Analysis, JavaScript, C++, Python",3.57,0.6,2,36.66
+C++,3.75,8.4,4,77.74
+"JavaScript, Java, Machine Learning, Problem Solving, Communication",3.41,6.3,1,73.95
+Teamwork,3.56,0.1,0,38.58
+C++,3.5,6.6,3,65.07
+"Java, Data Analysis, Problem Solving, Teamwork",2.09,0.4,2,38.97
+"Data Analysis, Java",3.69,2.7,0,46.84
+"C++, Problem Solving, Python, JavaScript",2.07,0.6,1,32.01
+Problem Solving,3.54,0.9,1,41.44
+"Communication, Teamwork, Python",3.93,5.6,4,84.54
+React,2.99,1.8,4,38.08
+"Teamwork, JavaScript",2.38,3.4,2,43.96
+Teamwork,3.7,5.6,0,66.95
+"Java, Data Analysis, Teamwork, Problem Solving, JavaScript",2.45,4,2,55.7
+"Object Oriented Programming, Python, JavaScript",2.16,4.6,0,42.55
+"Data Analysis, Communication, Machine Learning, C++",2.28,6.6,0,55.76
+"Data Analysis, Communication, Machine Learning, JavaScript",2.12,5.1,3,52.2
+"Machine Learning, Java, Teamwork",2.1,7.9,4,73.61
+"Teamwork, C++, Java",3.04,2,4,58.77
+"Communication, Data Analysis, Teamwork, Problem Solving",3.74,2.4,0,64.02
+Data Analysis,2.78,8,3,63.41
+Data Analysis,2.79,0.9,4,43.96
+"Python, JavaScript, Java",3.59,5.8,4,66.74
+Flutter,2.79,9.2,1,69.6
+"Problem Solving, Python",2.63,8.6,2,55.95
+"Teamwork, JavaScript",3.97,1.4,0,44.12
+"Teamwork, Problem Solving, Data Analysis",3.6,9.7,2,85.22
+"Python, Teamwork, Java",3.48,3.2,0,44.09
+"Data Analysis, Machine Learning",2.85,1.6,2,43.44
+Teamwork,2.19,0.3,3,37.18
+"Problem Solving, Teamwork",2.37,8.6,3,65.21
+Data Analysis,2.22,7.6,0,46.38
+Data Analysis,2.72,4.9,2,53.56
+"Data Analysis, Communication, Python, Machine Learning",3.05,2.4,3,55.92
+"Data Analysis, JavaScript, C++",2.28,3.5,1,35
+Data Analysis,2.87,5.8,0,48.25
+"Data Analysis, Machine Learning",3.27,1.3,1,42.51
+"JavaScript, Problem Solving, Machine Learning",3.37,0.7,0,43.73
+"Teamwork, Data Analysis, Machine Learning",3.39,5.1,4,67.83
+"Python, .net",2.61,6.5,3,61.02
+"Python, Communication, Teamwork",3.33,2.6,0,48.13
+"Teamwork, Python, JavaScript",2,1.7,1,27.53
+"Teamwork, JavaScript, Data Analysis, Machine Learning, Communication",3.09,3.8,2,57.4
+JavaScript,2.08,7.4,1,50.55
+"Java, Machine Learning",3.95,8.3,2,70.22
+"Teamwork, Problem Solving, Java, JavaScript",2.04,9.6,0,70.2
+"C++, Python, Java",2.23,7,4,61.96
+Clould Basics,2.48,0.1,3,40.83
+Python,2.1,9,1,47.57
+"Java, Teamwork, Communication, JavaScript",3.19,8.9,4,81.81
+"Python, Teamwork",3.99,8.6,4,78.24
+"C++, Communication, JavaScript",2.44,4.9,4,61.43
+Java,2.13,9.6,4,69.31
+"Java, Communication, Teamwork, C++",3.82,4.6,0,61.31
+"JavaScript, Machine Learning, Teamwork, Python",3.26,5.9,4,76.06
+"Data Analysis, Communication, JavaScript",3.35,1.3,3,49.92
+"Java, Python",3.49,5.1,0,45.55
+"Java, Flutter",2.08,6,2,45.87
+Communication,2.66,4.8,2,46.04
+"Communication, Teamwork, Java, C++, Data Analysis",2.95,5.9,4,74.69
+"Data Analysis, C",2.68,8,0,52.24
+"Machine Learning, C++, Python",2.09,2.8,4,40.87
+"Machine Learning, Data Analysis",3.76,5.7,4,72.04
+"Python, Teamwork, Problem Solving",2.9,9.3,4,90.3
+"Communication, Machine Learning, C++, Java, Problem Solving",3.43,6.1,0,59.05
+"Python, Java",3.91,8.2,0,64.42
+"C++, Problem Solving",2.51,6.7,0,47.13
+"Communication, Problem Solving",2.18,6,3,64.36
+"Data Analysis, Python, Communication, Machine Learning",3.36,3.6,2,56.56
+"Teamwork, Java",3,1.4,0,37.69
+"Teamwork, Data Analysis, JavaScript",3.48,5.3,2,62.11
+"Python, Communication",2.02,4.2,2,59.19
+Data Analysis,3.82,8.1,0,60.07
+Teamwork,2.13,3.9,2,42.31
+Data Analysis,2.61,7.9,3,60.96
+"JavaScript, Machine Learning",2.77,4.5,3,51.4
+"Data Analysis, Teamwork, Communication",3.16,3.7,0,53.86
+"Data Analysis, Python, Problem Solving",2.79,5.3,1,55.04
+"Python, Problem Solving, C++, Data Analysis, Java",3.78,3.5,3,60.15
+"Problem Solving, Teamwork, Data Analysis, C++",3.03,3.8,2,66.07
+"C++, Data Analysis, Communication",2.62,6.8,4,65.11
+"Problem Solving, JavaScript",3.68,5.8,0,53.63
+"Data Analysis, Teamwork",2.08,0.3,2,35.19
+"C++, Java, Problem Solving",2.05,7.6,4,63.83
+"Teamwork, Data Analysis, JavaScript, Java",3.99,5.5,4,78.54
+"C++, Machine Learning",3.92,3.9,4,80.06
+"Communication, Machine Learning, C++, Problem Solving, Python",3.52,8.3,2,69.07
+Problem Solving,3.65,7.1,1,76.97
+"C++, JavaScript, Python, Teamwork",3.93,5.6,2,69.53
+"Python, Machine Learning, Problem Solving, C++",3.17,10,4,80.09
+"Java, Machine Learning, Python, C++",3.99,8.8,0,69.12
+"Python, Java",2.92,7.3,3,76.32
+"Data Analysis, Machine Learning",2.26,5.9,1,36.79
+"JavaScript, C++, Communication, Problem Solving",2.92,0.4,2,49.75
+"Java, Machine Learning, Communication, C++",2.93,0.3,0,33.48
+"Data Analysis, Communication, JavaScript",3.03,0.9,3,41.13
+"Machine Learning, Teamwork, JavaScript",2.41,7.6,2,66.21
+C++,2.72,7.3,4,54.1
+"Data Analysis, Communication, Problem Solving, Python",3.61,4.8,0,51.94
+"Machine Learning, Teamwork, JavaScript, Java",2.01,6.4,0,47.27
+"Machine Learning, Java, Python, Teamwork, Problem Solving",3.85,0.2,4,50.4
+"Data Analysis, Python",3.74,5.3,4,66.66
+"Machine Learning, Communication, Python",2.42,9.6,2,71.07
+"C++, Python",3.35,8.3,2,72.45
+"Data Analysis, Problem Solving, Communication, Teamwork, Machine Learning",2.01,9.4,3,68.1
+"Flutter, React, Node.js",3.69,2.1,0,54.38
+"Python, Java",2.7,1.1,3,38.58
+"Communication, JavaScript, Machine Learning, Problem Solving, Python",3.4,0.1,2,49.98
+"Python, Communication",3.59,7.1,3,73.1
+"Problem Solving, Python",3.42,6.7,3,75.66
+"Python, Problem Solving, Data Analysis",2.04,5.8,0,39.65
+C++,2.44,0.3,2,40.71
+Java,3.44,8.7,1,62.11
+"Java, Communication, Teamwork, C++",3.25,0.7,1,40.78
+"C++, Teamwork, Problem Solving, Communication",3.61,5.5,3,78.51
+"Java, Problem Solving, Machine Learning",3.55,2.7,1,55.38
+"Machine Learning, Python",3.5,3.2,0,48.66
+Machine Learning,2.13,8.4,0,50.63
+"JavaScript, Data Analysis, Python, Java, C++",3.86,8.3,2,67.16
+Data Analysis,3.69,3.1,3,57.4
+Teamwork,2.75,9.4,2,73.42
+Data Analysis,3.37,4.9,0,51.01
+"Problem Solving, JavaScript, C++, Python",2.37,2.8,2,41.02
+"Data Analysis, Java, Python",3.41,3,4,62.18
+"REST APIs, Data Analysis, Python",2.21,5,3,55.12
+"Problem Solving, Machine Learning, Java",2.92,2.1,2,49.6
+"Communication, Machine Learning, C++, Problem Solving",3.7,2.1,0,46.67
+"C++, Java",3.46,6.5,3,69.46
+"Communication, Teamwork, Python",3.48,3.2,3,65.58
+"Machine Learning, Python, Problem Solving, Java",3.36,4.7,0,57.71
+"JavaScript, Java",3.09,1,1,40.49
+"Communication, Data Analysis, Java, Problem Solving, JavaScript",2.76,3.4,0,43.5
+"C++, Python, Problem Solving, Communication",3.19,0.1,2,56.18
+"Machine Learning, Problem Solving, Python",2.08,4,0,29.32
+Java,3.04,9.8,2,66.16
+"Data Analysis, Problem Solving, Machine Learning, Communication",2.15,3.8,0,41.6
+"Python, C++, Java, Communication, Teamwork",2.68,7.4,3,64.56
+"Python, Java, JavaScript",2,3,3,44.35
+"Data Analysis, Problem Solving, C++, Python, Machine Learning",2.8,3,2,53.38
+"Communication, Python, Problem Solving, JavaScript",2.49,4.8,3,65.55
+Communication,2.48,5.3,3,66.56
