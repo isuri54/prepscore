@@ -43,3 +43,11 @@ def predict_score(data: InputData):
     prediction = model.predict([final_features])[0]
 
     return {"Predicted_Score": round(float(prediction), 2)}
+
+@app.get("/")
+def root():
+    return {"message": "API running"}
+
+@app.get("/health")
+def health_check():
+    return {"status": "ok"}
