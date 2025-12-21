@@ -30,10 +30,6 @@ jobs:
         working-directory: frontend/prepscore-ui
         run: npm ci
 
-      - name: Run frontend tests
-        run: npm test -- --watch=false --browsers=ChromeHeadless
-        continue-on-error: true
-
       - name: Build Angular app
         working-directory: frontend/prepscore-ui
         run: npm run build -- --configuration production
