@@ -1,6 +1,6 @@
 ## PrepScore — ML-Based Interview Score Prediction System
 
-[![CI/CD](https://github.com/isuri54/prepscore/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/isuri54/prepscore/actions/workflows/ci-cd.yml)
+[![CI](https://github.com/isuri54/prepscore/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/isuri54/prepscore/actions/workflows/ci-cd.yml)
 Frontend: http://localhost:4200 | Backend: http://localhost:8000
 
 PrepScore is a full-stack machine learning web application designed exclusively for IT candidates to predict interview success scores based on skills, GPA, experience, and certifications.
